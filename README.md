@@ -37,11 +37,9 @@ This is a **personal portfolio website** designed to showcase my work, skills, a
 
 ## **Demo**
 
-Check out the live demo here: [Portfolio Live](https://yourusername.github.io/portfolio-website/)
+Check out the live demo here: 
 
 ## **Screenshots**
-
-*(Add screenshots or GIFs of your website here if available)*
 
 ## **Contributing**
 
